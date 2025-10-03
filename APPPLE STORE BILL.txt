@@ -1,0 +1,44 @@
+//ATHARVA Pasalkar
+//Computer Engineering
+//CE2 B
+//B25CE1111
+#include<stdio.h>
+int main()
+{
+    char name[50];
+    int customer_id;
+    char email_id[50];
+    int bank_pin;
+       printf("\n"); 
+    printf("APPLE STORE                                                        APPLE INC,\n");
+    printf("Koregaon Park,Pune-410293                                          Slicon Valley Road,NYC,USA\n");
+    printf("020-234-232/020-456-183                                            HQ,Server 6278-TFG 97J\n\n");
+    printf("*************************************************************************************************** \n");
+printf("Name = Atharva Dilip Pasalkar \n");
+printf("Customer ID = 31268794 \n");
+printf("Mobile Number = +91 9689370258 \n");
+printf("Email ID = atharvapasalkar2025@mmcoe.edu.in \n");
+printf("Bank Pin = 23***45 \n\n");
+printf("***************************************************************************************************\n\n");
+printf("---------------------------------------------------------------------------------------------------\n");
+printf("1.     APPLE IPhone 17              :                 1 N                    :    ₹89,990/-    \n ");
+printf("--------------------------------------------------------------------------------------------------\n");
+printf("2.     APPLE AirPods Series 2       :                 1 N                    :    ₹29,999/-    \n");
+printf("---------------------------------------------------------------------------------------------------\n");
+
+printf("       TOTAL =      ₹119,989/- \n");
+printf("--------------------------------------------------------------------------------------------------- \n");
+
+printf("    SGST : 9% = ₹10,799/-  \n");
+printf("    CGST : 9% = ₹10,799/-  \n");
+
+printf("    Total GST : 18% = ₹21,598/- \n");
+printf("   ------------------------------ \n");
+printf("    **GRAND TOTAL = ₹141,587/-** \n");
+printf("--------------------------------------------------------------------------------------------------- \n");
+
+
+
+printf("                             THANK YOU FOR SHOPPING FROM APPLE STORE ! \n");
+printf("                             █ ▌█ ▌█ ▌█ ▌█ ▌█ ▌█ ▌█ ▌█ ▌█ ▌█ ▌█ ▌█ \n");
+}
