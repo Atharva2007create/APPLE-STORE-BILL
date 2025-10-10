@@ -5,10 +5,10 @@
 #include<stdio.h>
 int main()
 {
-    char name[50];
+   
     int customer_id;
-    char email_id[50];
-    int bank_pin;
+   printf("Enter Customer Id = ");
+   scanf("%d",&customer_id);
        printf("\n"); 
     printf("APPLE STORE                                                        APPLE INC,\n");
     printf("Koregaon Park,Pune-410293                                          Slicon Valley Road,NYC,USA\n");
